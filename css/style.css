@@ -1,0 +1,17 @@
+body{
+  background-color: lightcyan;
+
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: pink;
+  border-width: 6px;
+  width: 90%;
+}
+h1{
+  color: #187498;
+}
+h3{
+  color: #187498;
+}
